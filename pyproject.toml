@@ -14,8 +14,14 @@ dependencies = [
     "langchain-anthropic>=0.1.23",
     "langchain>=0.2.14",
     "langchain-fireworks>=0.1.7",
+    "langchain-community>=0.2.0",
+    "langchain-experimental>=0.0.60",
     "python-dotenv>=1.0.1",
     "langchain-tavily>=0.1",
+    "psycopg2-binary>=2.9.0",
+    "pydantic>=2.0.0",
+    "langsmith>=0.1.0",
+    "sqlalchemy>=2.0.0",
 ]
 
 
